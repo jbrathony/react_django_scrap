@@ -1,0 +1,137 @@
+{
+    "success": true,
+    "data": {
+        "uri": "spotify:album:4kIWi5LcrqAWQD09CE05Ps",
+        "name": "GOOBA",
+        "cover": {
+            "uri": "https://i.scdn.co/image/ab67616d00001e023e68a2c61ab786e2526f7269"
+        },
+        "year": 2020,
+        "track_count": 1,
+        "discs": [
+            {
+                "number": 1,
+                "name": "",
+                "tracks": [
+                    {
+                        "uri": "spotify:track:4NhDYoQTYCdWHTvlbGVgwo",
+                        "playcount": 212795309,
+                        "name": "GOOBA",
+                        "popularity": 90,
+                        "number": 1,
+                        "duration": 132303,
+                        "explicit": true,
+                        "playable": true,
+                        "artists": [
+                            {
+                                "name": "6ix9ine",
+                                "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf",
+                                "image": {
+                                    "uri": "https://i.scdn.co/image/4edd3d39ac91d064a4dc1d0d7f34b81a35ab94a6"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "copyrights": [
+            "\u00a9 \u2117 2020 6ix9ine, distributed by Create Music Group"
+        ],
+        "artists": [
+            {
+                "name": "6ix9ine",
+                "uri": "spotify:artist:7gZfnEnfiaHzxARJ2LeXrf"
+            }
+        ],
+        "related": {
+            "releases": [
+                {
+                    "uri": "spotify:album:4f8pX9Vjs9uU5aKjqDNcDO",
+                    "name": "DUMMY BOY",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e027b4d2b0d46fc5ed7f771329b"
+                    },
+                    "year": 2018,
+                    "track_count": 13,
+                    "month": 11,
+                    "day": 27
+                },
+                {
+                    "uri": "spotify:album:1ubczeMvCrPHbSEjgfu4a7",
+                    "name": "Day69: Graduation Day",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e0214d3a2a7a92b85a06c93e544"
+                    },
+                    "year": 2018,
+                    "track_count": 12,
+                    "month": 4,
+                    "day": 10
+                },
+                {
+                    "uri": "spotify:album:4bKXeDGKfM3HQY1dnjxC4w",
+                    "name": "PUNANI",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e02862d1bc15853c72fd90a2308"
+                    },
+                    "year": 2020,
+                    "track_count": 1,
+                    "month": 8,
+                    "day": 2
+                },
+                {
+                    "uri": "spotify:album:0oAcM66E5nKMk0aUryeVT0",
+                    "name": "YAYA",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e02cc5d7df6759fc8563c6c672c"
+                    },
+                    "year": 2020,
+                    "track_count": 1,
+                    "month": 7,
+                    "day": 3
+                },
+                {
+                    "uri": "spotify:album:7cwxaMo0rXBHdtE5S9CkyW",
+                    "name": "TROLLZ - Alternate Edition (with Nicki Minaj)",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e0226f55c7d177b1456dfe43e1e"
+                    },
+                    "year": 2020,
+                    "track_count": 1,
+                    "month": 6,
+                    "day": 16
+                },
+                {
+                    "uri": "spotify:album:7k3BOYZVMerwnrGSTBPJwD",
+                    "name": "TROLLZ (with Nicki Minaj)",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e02ee39017530114e6f8e5908cc"
+                    },
+                    "year": 2020,
+                    "track_count": 1,
+                    "month": 6,
+                    "day": 12
+                }
+            ]
+        },
+        "additional": {
+            "releases": [
+                {
+                    "uri": "spotify:album:6LlBEP9vihMziDUe5btTlV",
+                    "name": "GOOBA",
+                    "cover": {
+                        "uri": "https://i.scdn.co/image/ab67616d00001e02a0b04f8d2b3b2322513ab83c"
+                    },
+                    "year": 2020,
+                    "track_count": 1,
+                    "month": 5,
+                    "day": 7
+                }
+            ]
+        },
+        "month": 5,
+        "day": 8,
+        "type": "single",
+        "label": "Create Music Group"
+    }
+}

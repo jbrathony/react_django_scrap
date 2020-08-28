@@ -1,0 +1,6 @@
+django==3.0.0
+selenium
+webdriver_manager
+spotipy
+gunicorn
+whitenoise
